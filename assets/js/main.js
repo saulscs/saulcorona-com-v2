@@ -126,7 +126,10 @@ let swiperTestimonial = new Swiper(".testimonial__container", {
     568:{
       slidesPerView: 2,
     }
-  }
+  },
+  autoplay: {
+    delay: 2000,
+  },
 });
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
