@@ -717,6 +717,7 @@ img{
   width: 265px;
   border-radius: .5rem;
   justify-content: center;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 15%);
 }
 
 .portfolio__title{
@@ -1165,6 +1166,7 @@ img{
 
   .portfolio__img{
     width: 320px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 15%);
   }
 
   .portfolio__content{
